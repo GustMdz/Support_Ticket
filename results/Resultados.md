@@ -90,3 +90,11 @@ Los Noun Chunks más comunes:
 ![Extracción de Noun Chunks](https://github.com/GustMdz/Support_Ticket/blob/main/data/Images/Top%2020%20Noun%20Chunks.png)
 
 Fuente: [Elaboración propia](https://github.com/GustMdz/Support_Ticket/blob/main/data/Images/Top%2020%20Noun%20Chunks.png)
+
+## Geopandas
+
+Hemos generado un mapa de los Estados Unidos, marcando la ubicación de cada cliente. Asi mismo, contemplamos información sobre el número de tickets de soporte de cada cliente en la representación geográfica. Esta adición nos permite obtener una perspectiva visual de la demanda de soporte en función de la ubicación geográfica de nuestros clientes. 
+
+ ![](https://github.com/GustMdz/Support_Ticket/blob/main/data/Images/US_Map.png)
+
+Fuente: [Elaboración propia](https://github.com/GustMdz/Support_Ticket/blob/main/data/Images/US_Map.png)
